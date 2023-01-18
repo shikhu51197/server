@@ -1175,5 +1175,36 @@
       "category": "Footwear",
       "id": 91
     }
+  ],
+  "checkout": [
+    {
+      "name": "Shikha",
+      "mobile": "6260728297",
+      "alternumber": "9654732998",
+      "city": "rewa",
+      "pincode": "543210",
+      "state": "mp",
+      "flat": "building-2",
+      "area": "nevi colony",
+      "landmark":"india",
+      "id": "1"
+    },
+    {
+      "name": "Shikha",
+      "mobile": "6260728297",
+      "alternumber": "9654732998",
+      "city": "rewa",
+      "pincode": "543289",
+      "state": "mp",
+      "flat": "building-1",
+      "area": "nevi colony",
+      "landmark":"india",
+      "id": "2"
+    }
   ]
+
+
 }
+
+
+  
