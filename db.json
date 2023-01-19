@@ -1219,7 +1219,16 @@
     { "id": 4, "mobileNumber": "1111111111", "otp": "1111" }
     ],
     
-    "Admin":[]
+    "Admin":[
+      {
+        "first_name": "Shikha",
+      "last_name": "Gupta",
+      "adminemail": "Masai@123",
+      "adminpassword":"123456",
+      "id": 1
+    }
+      
+    ]
 }
 
 
