@@ -1221,8 +1221,8 @@
     
     "Admin":[
       {
-        "first_name": "Shikha",
-      "last_name": "Gupta",
+        "firstname": "Shikha",
+      "lastname": "Gupta",
       "adminemail": "Masai@123",
       "adminpassword":"123456",
       "id": 1
