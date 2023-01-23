@@ -1233,10 +1233,17 @@
       {
         "firstname": "Shikha",
       "lastname": "Gupta",
-      "adminemail": "Masai@123",
-      "adminpassword":"123456",
+      "adminemail": "sg780060@gmail.com",
+      "adminpassword":"Masai@123",
       "id": 1
-    }
+    },
+    {
+      "firstname": "Shikha",
+    "lastname": "Gupta",
+    "adminemail": "sg780060@gmail.com",
+    "adminpassword":"Gupta@123",
+    "id": 2
+  }
       
     ],
     "UserDetails":[
@@ -1295,6 +1302,7 @@
         ]
       }
     ]
+   
 }
 
 
